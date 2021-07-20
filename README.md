@@ -1,2 +1,3 @@
 # DecisionTree-and-SVM-algorithms
-Description of requirements is in Description Folder
+DecisionTree and SVM algorithms algorithms from scratch.
+Description of task is in Description folder
